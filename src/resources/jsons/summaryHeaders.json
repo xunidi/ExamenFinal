@@ -1,0 +1,38 @@
+[
+	{
+		"name": "TIPO",
+		"value": "boxoffice",
+		"footer": "TOTAL",
+		"type": ""
+	},
+	{
+		"name": "VENDIDOS",
+		"value": "sold",
+		"footer": "sum",
+		"type": "number"
+	},
+	{
+		"name": "PROMOCIONES",
+		"value": "promos",
+		"footer": "sum",
+		"type": "number"
+	},
+	{
+		"name": "CORTESÍAS",
+		"value": "courtesies",
+		"footer": "sum",
+		"type": "number"
+	},
+	{
+		"name": "TOTAL",
+		"value": "total",
+		"footer": "sum",
+		"type": "money"
+	},
+	{
+		"name": "MONTO",
+		"value": "value",
+		"footer": "sum",
+		"type": "money"
+	}
+]

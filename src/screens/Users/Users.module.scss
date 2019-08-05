@@ -1,0 +1,61 @@
+* {
+	box-sizing: border-box;
+}
+.country {
+	color: black;
+}
+.country:hover {
+	color: blue;
+	cursor: pointer;
+	outline: none;
+}
+
+.image {
+	display:flex;
+	width: 50px;
+	height: 50px;
+	align-items: stretch;
+	flex-wrap: wrap;
+	
+}
+
+.contenedor,.info {
+
+	width: 100%;
+	box-sizing: border-box;
+    border: 2px solid #8c8c8c;
+}
+
+.label{
+	font-size: 15px;
+	font-family: 'Lucida Sans';
+	display: block;
+}
+
+.input{
+	margin-left:10px;
+  	width:600px;
+	font-family:'Lucida Sans';
+	padding:.2em;
+}
+
+.button {
+	margin-top: -45px;
+	float:right;
+	
+}
+
+.icon_selected {
+	width: 16px;
+	fill: gray;
+	margin: 16px;
+	cursor: pointer;
+	outline: none;
+}
+.icon_selected {
+	fill: blue;
+}
+
+.li{
+	cursor:pointer;
+}

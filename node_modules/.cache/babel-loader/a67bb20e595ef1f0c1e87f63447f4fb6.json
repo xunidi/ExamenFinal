@@ -1,0 +1,1 @@
+{"ast":null,"code":"import buildFormatLongFn from '../../../_lib/buildFormatLongFn/index.js';\nvar formatLong = buildFormatLongFn({\n  LT: 'h:mm aa',\n  LTS: 'h:mm:ss aa',\n  L: 'MM/DD/YYYY',\n  LL: 'MMMM D YYYY',\n  LLL: 'MMMM D YYYY h:mm aa',\n  LLLL: 'dddd, MMMM D YYYY h:mm aa'\n});\nexport default formatLong;","map":null,"metadata":{},"sourceType":"module"}

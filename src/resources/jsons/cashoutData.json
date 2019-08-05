@@ -1,0 +1,14 @@
+[
+	{
+		"id": 2069,
+		"name": "Fierabono Apertura 2019",
+		"date": "2019-07-27T00:00:00.000Z",
+		"cashout": [
+			{ "zone": "A", "type": "Adulto", "sold": 5, "price": 3000, "cash": 0, "card": 15000, "payroll": 0, "credit": 0, "subtotal": 15000, "total": 15000 },
+			{ "zone": "Preferente 7", "type": "Adulto", "sold": 4, "price": 2250, "cash": 0, "card": 9000, "payroll": 0, "credit": 0, "subtotal": 9000, "total": 9000 },
+			{ "zone": "Preferente 8", "type": "Adulto", "sold": 4, "price": 2250, "cash": 0, "card": 9000, "payroll": 0, "credit": 0, "subtotal": 9000, "total": 9000 },
+			{ "zone": "Sol 10", "type": "Adulto", "sold": 1, "price": 1300, "cash": 0, "card": 1300, "payroll": 0, "credit": 0, "subtotal": 1300, "total": 1300 },
+			{ "zone": "Sol 5", "type": "Adulto", "sold": 7, "price": 1300, "cash": 0, "card": 9100, "payroll": 0, "credit": 0, "subtotal": 9100, "total": 9100 }
+		]
+	}
+]

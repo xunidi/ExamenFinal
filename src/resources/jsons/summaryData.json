@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1857,
+		"name": "J1: Rieleros vs Sultanes",
+		"date": "2019-04-16T19:30:00.000Z",
+		"summary": [ { "boxoffice": "En Línea", "sold": 409, "courtesies": 0, "promos": 83, "value": 51390 }, { "boxoffice": "Estadio", "sold": 933, "courtesies": 6604, "promos": 0, "value": 116630 } ]
+	},
+	{
+		"id": 1858,
+		"name": "J2: Rieleros vs Sultanes",
+		"date": "2019-04-17T19:30:00.000Z",
+		"summary": [ { "boxoffice": "En Línea", "sold": 842, "courtesies": 0, "promos": 0, "value": 72790 }, { "boxoffice": "Estadio", "sold": 1883, "courtesies": 7407, "promos": 0, "value": 152330 } ]
+	},
+	{
+		"id": 1859,
+		"name": "J3: Rieleros vs Sultanes",
+		"date": "2019-04-18T19:30:00.000Z",
+		"summary": [ { "boxoffice": "En Línea", "sold": 670, "courtesies": 0, "promos": 66, "value": 89410 }, { "boxoffice": "Estadio", "sold": 1738, "courtesies": 8349, "promos": 0, "value": 186740 } ]
+	}
+]

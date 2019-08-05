@@ -1,0 +1,11 @@
+* {
+	box-sizing: border-box;
+}
+.city {
+	color: black;
+}
+.city:hover {
+	color: blue;
+	cursor: pointer;
+	outline: none;
+}

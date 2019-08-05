@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+
+.title {
+	font-weight: 700;
+	padding: 16px 32px 0 32px;
+	margin-top: 16px;
+}
+.icons {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	padding-right: 32px;
+}
+.icon,
+.icon_selected {
+	width: 16px;
+	fill: gray;
+	margin: 16px;
+	cursor: pointer;
+	outline: none;
+}
+.icon_selected {
+	fill: blue;
+}

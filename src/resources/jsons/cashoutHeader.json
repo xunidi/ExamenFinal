@@ -1,0 +1,37 @@
+[
+	{
+		"name": "ZONA",
+		"value": "zone",
+		"footer": ""
+	},
+	{
+		"name": "TIPO",
+		"value": "type",
+		"footer": ""
+	},
+	{
+		"name": "ASIENTOS",
+		"value": "sold",
+		"footer": "sum"
+	},
+	{
+		"name": "PRECIO",
+		"value": "price",
+		"footer": ""
+	},
+	{
+		"name": "EFECTIVO",
+		"value": "cash",
+		"footer": "sum"
+	},
+	{
+		"name": "TARJETA",
+		"value": "card",
+		"footer": "sum"
+	},
+	{
+		"name": "GRAN TOTAL",
+		"value": "total",
+		"footer": "sum"
+	}
+]

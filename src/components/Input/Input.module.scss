@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+}
+
+.main {
+}
+.default {
+	border: 1px solid lightgray;
+	font-size: .9rem;
+	font-weight: 500;
+	line-height: normal;
+	width: 650px;
+	height: 40px;
+	padding: 13px 15px;
+	margin: 1px 2px 4px 6px;
+	border-radius: 4px;
+	line-height: 24px;
+	outline: none;
+	color: darkslategray;
+	background: white;
+	text-align: center;
+}
